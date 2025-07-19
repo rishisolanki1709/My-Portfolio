@@ -1,0 +1,63 @@
+ body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      background: #f7f9fb;
+      color: #333;
+    }
+    header {
+      background-color: #1e293b;
+      color: #fff;
+      padding: 2rem;
+      text-align: center;
+    }
+    header h1 {
+      margin-bottom: 0.5rem;
+    }
+    nav {
+      text-align: center;
+      margin-top: 1rem;
+    }
+    nav a {
+      color: #1e293b;
+      margin: 0 1rem;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    section {
+      padding: 2rem;
+      max-width: 1000px;
+      margin: auto;
+    }
+    .card {
+      background: #fff;
+      border-radius: 10px;
+      padding: 1.5rem;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+      margin-bottom: 2rem;
+    }
+    .card h2 {
+      color: #1e293b;
+    }
+    .skills span {
+      background-color: #e2e8f0;
+      border-radius: 5px;
+      padding: 0.5rem 1rem;
+      margin: 0.3rem;
+      display: inline-block;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      background-color: #1e293b;
+      color: #fff;
+      margin-top: 3rem;
+    }
+    a.btn {
+      display: inline-block;
+      background-color: #1e40af;
+      color: white;
+      padding: 0.5rem 1rem;
+      text-decoration: none;
+      border-radius: 5px;
+      margin-top: 1rem;
+    }
